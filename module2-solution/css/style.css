@@ -7,7 +7,6 @@
 body
 {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #34495e;
 }
 h1
 {
@@ -19,13 +18,13 @@ h1
 }
 div
 {
-    border: solid black 2px;
+    border: solid black 1px;
     background-color: #95a5a6;
 }
 h2
 {
-    border-left: black solid 2px;
-    border-bottom: black solid 2px;
+    border-left: black solid 1px;
+    border-bottom: black solid 1px;
     font-size: 2vw;
     width: 30%;
     float: right;
