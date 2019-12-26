@@ -1,0 +1,35 @@
+#chicken
+{
+    background-color: #2d3436;
+    color:#b2bec3;
+    border-radius: 4px;
+}
+h4
+{
+    color: white;
+}
+@media (min-width:576px)
+{
+h1
+{
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+}
+@media (max-width:575px)
+{
+h1
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+}
+.bg-coul
+{
+    background-color: orange;
+    opacity: 0.7;
+    text-align: center;
+    border: solid ;
+    margin-bottom: 1px;
+    font-weight: bold;
+}
